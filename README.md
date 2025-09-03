@@ -1,3 +1,3 @@
 # RAG-Containerization
 I designed a simple RAG system in-order to containerize an ML based system
-![RAG-APP](https://github.com/blessing-bester/RAG-Containerization/rag-app containerization.png)
+![RAG-APP](https://github.com/blessing-bester/RAG-Containerization/rag-app.png)
