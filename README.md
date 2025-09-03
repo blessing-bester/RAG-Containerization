@@ -13,4 +13,4 @@ Endpoints:
 - 
 ![RAG-APP](rag-app.png)
 
-![RAG-APP](screenshot.png)
+![RAG-APP](greenshot.png)
